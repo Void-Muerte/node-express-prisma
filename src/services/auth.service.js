@@ -1,0 +1,5 @@
+const Prisma = require('../../db');
+
+/**
+ * 
+ */
